@@ -10,7 +10,7 @@ Bit-perfect audio, a MilkDrop-style visualizer, huge-library support, and built-
 ![Platform](https://img.shields.io/badge/platform-Windows%2010%2B-0078D4?style=flat-square&logo=windows&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
-<!-- Add a screenshot here:  ![PCAmp](docs/screenshot.png) -->
+![PCAmp](image.png)
 
 </div>
 
