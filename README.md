@@ -48,7 +48,7 @@ The **built-in video player** plays **MP4, MOV and AVI** files, so you don't nee
 - **WASAPI exclusive mode** for bit-perfect playback, or **shared mode** through the Windows mixer
 - 16-bit, 24-bit and 32-bit output, with the sample rate, bit depth and any resampling shown on screen
 - **31-band equalizer** with presets, collapsible when you don't need it
-
+- Seamless Playback with manual gap selection.
 ## Visualizer
 
 Fifteen built-in styles:
