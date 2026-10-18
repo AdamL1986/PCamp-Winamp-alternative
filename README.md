@@ -6,6 +6,11 @@
 
 Bit-perfect audio, a MilkDrop-style visualizer, huge-library support, and built-in streaming between your PCs.
 
+Miss the good old days of Winamp? The skins, the visualizers, the feeling of owning your music. Those days don't have to be over.
+Meet the modern music player you've been waiting for — built for today, inspired by what made Winamp legendary.
+A fast, fully skinnable music and video player for Windows, featuring bit-perfect audio, a MilkDrop-style visualizer, support for huge music libraries, and built-in streaming between your PCs.
+Your music. Your style. Your player. Just like the good old days.
+
 ![Version](https://img.shields.io/badge/version-1.0.0-7FE3FF?style=flat-square)
 ![Platform](https://img.shields.io/badge/platform-Windows%2010%2B-0078D4?style=flat-square&logo=windows&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?style=flat-square&logo=dotnet&logoColor=white)
